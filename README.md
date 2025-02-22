@@ -1,3 +1,4 @@
+```bash
 src/
 ├── api/
 │   └── museumApi.ts          # RTK Query API slice for fetching posts
@@ -20,6 +21,7 @@ src/
 ├── App.tsx                   # Main application component
 ├── store.ts                  # Redux store configuration
 └── ...                       # Other filesMuseum App
+```
 # This is a React-based web application that showcases a collection of museum posts. It includes features like data fetching, filtering, searching, login, and logout functionalities. The app is built using modern web development tools and follows best practices for state management, component design, and user experience.
 
 # Features
